@@ -1,1 +1,1 @@
-This is my report on "Unions of Generalised Inverse Limits on Set Valued Functions". I created this report in 2019 for a summer research scholarship.
+The file Generalised_Inverse_Limits.pdf contains my report on "Unions of Generalised Inverse Limits on Set Valued Functions". This was written in 2019/20 for a summer research scholarship at the University of Auckland.
